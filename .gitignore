@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React Native / Expo
+.expo/
+dist/
+build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/dist/
+backend/node_modules/
+
+# Web Dashboard
+web-dashboard/node_modules/
+web-dashboard/build/
+
+# Mobile App
+mobile-app/node_modules/
+mobile-app/.expo/
+mobile-app/android/
+mobile-app/ios/
